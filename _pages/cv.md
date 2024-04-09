@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Assembly of MOF on TEMPO CNF: a molecular dynamic study
 ======
 Templating metal-organic frameworks (MOFs) with cellulose has attracted significant interest due to the synergistic combination of cellulose’s polymer substrate nature and MOFs’ multifunctional features. However, the precise in situ assembly mechanism between them remains unclear. We used molecular dynamics simulations to explore the early-stage assembly of MOF precursors on the TEMPO CNF substrate, to provide insights into the synthesis of the cellulose/MOF hybrid materials.
@@ -16,6 +17,7 @@ Templating metal-organic frameworks (MOFs) with cellulose has attracted signific
 Luminescent Sensor
 ======
 We developed a portable 2D sensing pad by integrating cellulose nanofibers (CNFs) with luminescent metal-organic frameworks (LMOFs) featuring aggregation-induced emission (AIE) properties. The fluorescence of the hybrid pad was quenchable upon exposure to methyl parathion. We engineered these hybrid pads prototype into a user-friendly and portable sensing kit for the detection of methyl parathion pesticide. This study introduces a practical and sustainable sensing platform for pesticide detection. For details, please refer to our published research [here](https://doi.org/10.1016/j.jece.2024.112670) 
+
 ![image](https://kailongzh.github.io/files/sensor.png)
 
 Sulfonated CNF/MOF hybrid
