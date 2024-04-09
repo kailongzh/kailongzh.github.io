@@ -12,6 +12,7 @@ redirect_from:
 Assembly of MOF on TEMPO CNF: a molecular dynamic study
 ======
 Templating metal-organic frameworks (MOFs) with cellulose has attracted significant interest due to the synergistic combination of cellulose’s polymer substrate nature and MOFs’ multifunctional features. However, the precise in situ assembly mechanism between them remains unclear. We used molecular dynamics simulations to explore the early-stage assembly of MOF precursors on the TEMPO CNF substrate, to provide insights into the synthesis of the cellulose/MOF hybrid materials.
+
 ![image](https://kailongzh.github.io/files/cellmof.png)
 
 Luminescent Sensor
