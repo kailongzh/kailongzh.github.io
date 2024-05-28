@@ -13,7 +13,7 @@ redirect_from:
 ### [Faculty-Student Team Receives Grant to Remove ‘Forever Chemicals’ from Water](https://utianews.tennessee.edu/school-of-natural-resources-team-receives-grant-to-remove-forever-chemicals-from-water/)
 April 24, 2024  
 Assistant professor Mi Li has built a student team to work on EPA project including Kailong Zhang, a Ph.D. student in the School of Natural Resources, and Ryan Baskette, an undergraduate student in the Department of Biochemistry and Cellular and Molecular Biology. The team received a $75,000 research grant from the U.S. Environmental Protection Agency (EPA) for a two-year project using a cellulose-functionalized adsorbent to remove per- and polyfluoroalkyl substances (PFAS) from water. The grant comes from the EPA’s People, Prosperity, and the Planet Program, which provided almost $1.2 million to 16 college student teams across the U.S. to develop solutions for environmental and public health challenges. The team plans to create a cellulose-metal organic frameworks (Cello-MOFs) hybrid adsorbent to remove PFAS from water.
-![image](https://kailongzh.github.io/files/EPA3P.png)
+![image](https://kailongzh.github.io/files/EPA3P.jpg)
 
 
 
