@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted
-1.	Zhang, K., William, LH., Evans, ND., Elder, T., Garner, CM., & Li, M.* (2024) In-situ synthesis of metal-organic frameworks on sulfonated cellulose nanofibrils for dye removal. Submitted to Carbohydrate Polymers. Submitted to Carbohydrate Polymers.
-
 
 ## Published
 1.	Zhang, K., Elder, T., Cheng, Z., Zhan, K., Peng, Y., & Li, M.* (2024). Cellulose nanofiber-templated metal-organic frameworks for fluorescent detection of methyl parathion pesticides, Journal of Environmental Chemical Engineering, 12(3), 112670.
