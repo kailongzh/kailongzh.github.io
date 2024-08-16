@@ -18,7 +18,7 @@ At the heart of my work is a commitment to sustainability. By exploring and desi
 I am expected to graduate in Summer 2025 and am actively seeking postdoctoral opportunities.
 
 
-![image](https://kailongzh.github.io/files/cellulose.png)
+![image](https://kailongzh.github.io/files/cell_mof.png)
 
 
   
