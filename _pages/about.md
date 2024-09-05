@@ -11,9 +11,9 @@ redirect_from:
       
 Hello and welcome! 
 
-I'm a passionate third-year PhD student at the Center for Renewable Carbon at the University of Tennessee, Knoxville. My advisor is [Mi Li](https://mili.utk.edu/). My research journey is dedicated to the innovative world of functional materials, particularly those derived from cellulose biomass.
+I'm a passionate fourth-year PhD student at the Center for Renewable Carbon at the University of Tennessee, Knoxville. My advisor is [Mi Li](https://mili.utk.edu/). My research focuses on the sustainable and innovative development of functional materials derived from cellulose biomass.
 
-At the heart of my work is a commitment to sustainability. By exploring and designing novel materials from cellulose biomass, I aim to contribute to a greener, more sustainable future. Here is my [CV](https://kailongzh.github.io/files/CV.pdf).
+As a chemist and materials scientist, I specialize in chemical characterization, material synthesis, and chemical computation. My expertise spans a variety of techniques, including X-ray scattering, morphology characterization, NMR, DFT, and molecular dynamics simulations. I have a particular proficiency in organic polymers and inorganic nanoparticles. Here is my [CV](https://kailongzh.github.io/files/CV.pdf).
 
 I am expected to graduate in Summer 2025 and am actively seeking postdoctoral opportunities.
 
