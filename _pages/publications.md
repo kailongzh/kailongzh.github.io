@@ -8,7 +8,7 @@ author_profile: true
 
 ## Selected Publications
 
-1.  Zhang, K., Smith, M. D., & Li, M.* (2024). Journal of Materials Chemistry A, DOI: 10.1039/D4TA05512H.
+1.  Zhang, K., Smith, M. D., & Li, M.* (2024). Molecular insights into the in situ early-stage assembly of metal organic frameworks on cellulose nanofibrils, Journal of Materials Chemistry A, DOI: 10.1039/D4TA05512H.
 2.	Zhang, K., Elder, T., Cheng, Z., Zhan, K., Peng, Y., & Li, M.* (2024). Cellulose nanofiber-templated metal-organic frameworks for fluorescent detection of methyl parathion pesticides, Journal of Environmental Chemical Engineering, 12(3), 112670.
 3.	Zhang, K., Sutton, I., Smith, M. D., Harper, D. P., Wang, S., Wu, T., & Li, M.* (2023). Ambient-densified and polymer-free transparent wood film for smart food packaging window. iScience, 26(12), 108455.
 4.	Xie, D., Pu, Y., Meng, X., Bryant, N., Zhang, K., Wang, W., Ragauskas, A., & Li, M.* (2022). Effect of lignin structures on physicochemical properties of lignin-grafted-poly(caprolactone) and its application for water/oil separation. ACS Sustainable Chemistry & Engineering, 10(50), 16882-16895.
