@@ -11,9 +11,9 @@ redirect_from:
       
 Hello and welcome! 
 
-I'm a fourth-year PhD student at the University of Tennessee, Knoxville. In May 2025, I will be graduating and embarking on my postdoctoral research journey.
+I'm a fourth-year PhD student at the University of Tennessee, Knoxville. In May 2025, I will be graduating and begin my postdoct.
 
-Stay tuned for more updates soon! 
+More updates will come soon! 
 
 
 
