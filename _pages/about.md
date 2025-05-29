@@ -11,9 +11,7 @@ redirect_from:
       
 Hello and welcome! 
 
-I'm a fourth-year PhD student at the University of Tennessee, Knoxville. In May 2025, I will be graduating and begin my postdoc.
-
-More updates will come soon! 
+I'm a postdoctoral scholar at the University of Kentucky, where I work with Dr. Jian Shi and Dr. Qing Shao. My research focuses on critical metal extraction from waste batteries by combining chemical simulations, machine learning, and wet experimentation.
 
 
 
