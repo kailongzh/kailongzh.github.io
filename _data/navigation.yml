@@ -9,6 +9,6 @@ main:
   #- title: "Research Spotlights"
 #    url: /cv/ 
     
-  - title: "News and Awards"
-    url: /teaching/    
+  #- title: "News and Awards"
+   # url: /teaching/    
     
